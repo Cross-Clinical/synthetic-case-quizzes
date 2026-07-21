@@ -18,4 +18,4 @@ tags:
 
 **Synthetic / education only.** Practice reasoning with labeled fake cases. Not for clinical care.
 
-[Cross Clinical OSS](https://github.com/Cross-Clinical/awesome) · [ProMedNet](https://crossclinical.com)
+[Cross Clinical OSS](https://github.com/Cross-Clinical/suite-index) · [ProMedNet](https://crossclinical.com)

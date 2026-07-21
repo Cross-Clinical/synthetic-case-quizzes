@@ -59,7 +59,7 @@ with gr.Blocks(title="Synthetic Case Quizzes") as demo:
     gr.Markdown(
         f"# Synthetic Case Quizzes\n\n**{DISCLAIMER}**\n\n"
         f"Banner: **synthetic / education** — never treat as clinical guidance.\n\n"
-        f"[Cross Clinical OSS](https://github.com/Cross-Clinical/awesome) · "
+        f"[Cross Clinical OSS](https://github.com/Cross-Clinical/suite-index) · "
         f"[Jargon Explainer](https://github.com/Cross-Clinical/clinical-jargon-explainer) · "
         f"[ProMedNet](https://crossclinical.com)"
     )
